@@ -1,3 +1,6 @@
+این اولین پروژه تمرینی من توی react هست که به کمک آموزش های اولیه Jonas تونستم بزنم، توش مواردی خاصی مثل استفاده از props ها رو کامل یاد گرفتم، render کردن یک آرایه و لیست دیتا ها توی UI رو به صورت کامل با متد map یاد داد و این خیلی چیز باحالی بود، برای همین تصمیم گرفتم اینجا آپلودش کنم به عنوان یه ورژن متفاوت که خودمم روش کار کردم و از صفر زدم
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
